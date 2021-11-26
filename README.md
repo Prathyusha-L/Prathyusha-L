@@ -1,8 +1,6 @@
 ### Hi there 👋
 # I am L Prathyusha
 
-<img height="180em" src="https://github.com/Prathyusha-L" />
-
 
 <!--
 **Prathyusha-L/Prathyusha-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
