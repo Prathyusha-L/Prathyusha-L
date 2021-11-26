@@ -1,6 +1,7 @@
 ### Hi there 👋
 # I am L Prathyusha
 
+![Prathyusha's GitHub stats](https://github-readme-stats.vercel.app/apiPrathyusha-L=anuraghazra&hide=contribs,prs)
 
 <!--
 **Prathyusha-L/Prathyusha-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
