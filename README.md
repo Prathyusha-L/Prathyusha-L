@@ -1,4 +1,7 @@
 ### Hi there 👋
+# I am L Prathyusha
+![image](https://user-images.githubusercontent.com/83442712/143571652-b6ccb821-c31c-49e3-8762-ea5b80088d99.png)
+
 
 <!--
 **Prathyusha-L/Prathyusha-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
